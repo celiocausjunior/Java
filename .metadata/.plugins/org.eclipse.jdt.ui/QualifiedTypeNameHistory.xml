@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+<<<<<<< HEAD
 <fullyQualifiedTypeName name="java.util.Locale"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="entities.OutsourcedEmployee"/>
 <fullyQualifiedTypeName name="entities.Employee"/>
+=======
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="entities.ImportedProduct"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="entities.UsedProduct"/>
+<fullyQualifiedTypeName name="entities.Product"/>
+>>>>>>> 9c88798d6b02e33b0ab128eed4f0c02675eebc80
 </qualifiedTypeNameHistroy>

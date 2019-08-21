@@ -47,7 +47,9 @@ public class EmployessProgram {
 		System.out.println();
 		System.out.println("PAYMENTS: ");
 		for (Employee emp : list) {
-			System.out.println(emp.getName() + " - $  " + String.format("%.2f", emp.payment()));
+			System.out.println(emp.getName()
+					+ " - $  " 
+					+ String.format("%.2f", emp.payment()));
 		}
 	}
 
