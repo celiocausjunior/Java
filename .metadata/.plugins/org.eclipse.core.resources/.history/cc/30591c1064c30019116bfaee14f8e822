@@ -21,7 +21,7 @@ public class EmployessProgram {
 		for (int i = 1; i <= n; i++) {
 			System.out.println("Employee # " + i + " data: ");
 			sc.nextLine();
-			System.out.print("Outsourgit ced (y/n)? ");
+			System.out.print("Outsourced (y/n)? ");
 			char ch = sc.next().charAt(0);
 			System.out.println("Name: ");
 			sc.nextLine();
